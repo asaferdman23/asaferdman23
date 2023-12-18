@@ -2,12 +2,11 @@
 
 
 
-👨‍🎓 B.Sc Information systems Graduate
+👨‍🎓 B.Sc Information Systems Graduate
 
 💻 Software Engineer at Motorola Solutions
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaferdman23&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![]
 
 ## Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,bash,mysql,html,css,js,ocaml,prolog)](https://skillicons.dev)

@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asaf Erdman</h1>
 <h3 align="center">A passionate Software Developer from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asaferdman23&label=Profile%20views&color=0e75b6&style=flat" alt="asaferdman23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asaferdman23" alt="asaferdman23" /></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://asafportfolio.onrender.com/](https://asafportfolio.onrender.com/)
